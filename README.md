@@ -18,9 +18,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelixWaldschock&repo=Chalmers_TME286_IntelligentAgents)](https://github.com/FelixWaldschock/Chalmers_TME286_IntelligentAgents)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelixWaldschock&repo=TIF360_Advanced_machine_learning_with_neural_networks)](https://github.com/FelixWaldschock/TIF360_Advanced_machine_learning_with_neural_networks)
 
-A reinforcement learning deep learning model (deep-q-learning with convolution) to play pacman
+A reinforcement learning deep learning model (Deep Q-learning with convolutions) to play pacman
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LinusKullmyr&repo=Pacman)](https://github.com/LinusKullmyr/Pacman)
-
 
 
 # Github Stats 📊
