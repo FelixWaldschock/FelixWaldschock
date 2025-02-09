@@ -3,7 +3,9 @@
 ###
 <br>- 🔭 Working as an intern at Maxon International in the field of digital transformation. Executing Process mining and machine learning projects.<br>- 📚 Currently studying <a href="https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/">Complex Adaptive Systems</a> at Chalmers Technical University in Gothenburg
 <br>- ⚡ Interested in Solar Racing <a href="https://www.facebook.com/solarenergyracers">Solar Energy Racers</a>, mechatronic systems, Machine Learning / AI
-<img align="right" height="200" src=".content/SER-SASOL.jpg"  />
+<div align="right">
+  <img height="200" src=".content/SER-SASOL.jpg" alt="SER-SASOL" />
+</div>
 
 
 ###
@@ -14,8 +16,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelixWaldschock&repo=Chalmers_FFR105_Stochastic_Optimization_Algorithms)](https://github.com/FelixWaldschock/Chalmers_FFR105_Stochastic_Optimization_Algorithms)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelixWaldschock&repo=Chalmers_TME286_IntelligentAgents)](https://github.com/FelixWaldschock/Chalmers_TME286_IntelligentAgents)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FelixWaldschock&repo=TIF360_Advanced_machine_learning_with_neural_networks)](https://github.com/FelixWaldschock/TIF360_Advanced_machine_learning_with_neural_networks)
 
-###
+
 
 # Github Stats 📊
 
