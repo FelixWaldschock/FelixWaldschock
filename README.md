@@ -1,11 +1,31 @@
 <h2 align="left">Hi 👋! My name is Felix</h2>
 
-###
-<br>- 🔭 Working as an intern at Maxon International in the field of digital transformation. Executing Process mining and machine learning projects.<br>- 📚 Currently studying <a href="https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/">Complex Adaptive Systems</a> at Chalmers Technical University in Gothenburg
-<br>- ⚡ Interested in Solar Racing <a href="https://www.facebook.com/solarenergyracers">Solar Energy Racers</a>, mechatronic systems, Machine Learning / AI
-<div align="right">
-  <img height="200" src=".content/SER-SASOL.jpg" alt="SER-SASOL" />
-</div>
+### About Me
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <p>
+        🔭 Working as an intern at Maxon International in the field of digital transformation.  
+        Executing process mining and machine learning projects.
+      </p>
+      <p>
+        📚 Currently studying <a href="https://www.chalmers.se/en/education/find-masters-programme/complex-adaptive-systems-msc/">
+        Complex Adaptive Systems</a> at Chalmers Technical University in Gothenburg.
+      </p>
+      <p>
+        ⚡ Interested in <a href="https://www.facebook.com/solarenergyracers">Solar Energy Racers</a>,  
+        mechatronic systems, Machine Learning / AI.
+      </p>
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img height="200" src=".content/SER-SASOL.jpg" alt="SER-SASOL" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ###
