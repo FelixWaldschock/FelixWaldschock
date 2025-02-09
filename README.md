@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Felix</h2>
-
+Intrested in mechatronic systems, optimization and developing useful tools. 
+Of course Solar Racing :D
 ###
 
 <div align="center">
