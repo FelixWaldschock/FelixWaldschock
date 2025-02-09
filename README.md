@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Felix</h2>
 Intrested in mechatronic systems, optimization and developing useful tools. 
 Of course Solar Racing 🔋 @ 
-<a href="[url](https://www.facebook.com/solarenergyracers)">Solar Energy Racers</a>
+<a href="https://www.facebook.com/solarenergyracers">Solar Energy Racers</a>
 
 ###
 
