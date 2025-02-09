@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://uzwil24.ch/articles/36581-solar-energy-racers-von-buehler-mit-bronze-am-solar-challenge-2018"  />
+<img align="right" height="200" src=".content/SER-SASOL.jpg"  />
 
 ###
 
